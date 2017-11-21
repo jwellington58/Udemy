@@ -1,0 +1,10 @@
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\bin\Debug\netcoreapp2.0\Udemy.deps.json
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\bin\Debug\netcoreapp2.0\Udemy.runtimeconfig.json
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\bin\Debug\netcoreapp2.0\Udemy.runtimeconfig.dev.json
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\bin\Debug\netcoreapp2.0\Udemy.dll
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\bin\Debug\netcoreapp2.0\Udemy.pdb
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\obj\Debug\netcoreapp2.0\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\obj\Debug\netcoreapp2.0\Udemy.AssemblyInfoInputs.cache
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\obj\Debug\netcoreapp2.0\Udemy.AssemblyInfo.cs
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\obj\Debug\netcoreapp2.0\Udemy.dll
+C:\Users\wj070\Desktop\Programas\Projetos\DotNet\Udemy\obj\Debug\netcoreapp2.0\Udemy.pdb

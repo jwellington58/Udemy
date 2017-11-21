@@ -1,0 +1,20 @@
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel.DataAnnotations;
+
+namespace Udemy.Models
+{
+    public class Feature
+    {
+        public int Id { get; set; }
+        [StringLength(255)]
+        public string Name { get; set; }
+
+        public ICollection<VehicleFeature> Features { get; set; } 
+
+          public Feature()
+        {
+            Features = new Collection<VehicleFeature>();        
+        }
+    }
+}
